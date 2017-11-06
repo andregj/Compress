@@ -1,5 +1,8 @@
 package AGj.compressor;
 
+import Paquetes.Rar;
+import Paquetes.Zip;
+
 public class Client {
   public static void main (String [] args) {
     
